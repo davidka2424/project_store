@@ -1,1 +1,1 @@
-# project_store
+Практическая часть моего изучения Django framework.
